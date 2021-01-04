@@ -1,4 +1,4 @@
-This github account is maintained by Coro from https://www.psx-place.com/forums/
+This github is maintained by Coro, a moderator from https://www.psx-place.com/forums/
 
 Please visit psx-place forum for latest news, updates straight from the devs, and help with all your Playstation problems.
 
